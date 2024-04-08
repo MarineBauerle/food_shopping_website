@@ -6,7 +6,7 @@ This document delivers an exploration into user engagement, sales achievements, 
 ## Principal Discoveries
 ### Efficiency of Traffic Sources
 - **Direct visits** exhibit the utmost conversion rate at 100%, showcasing a pronounced intent among these visitors.
-- **Email and search mechanisms** prove beneficial for cart additions, though they experience a decline before finalizing purchases, indicating areas ripe for improvement.
+- **Email and search mechanisms** prove beneficial for cart additions, though they experience a decline before finalising purchases, indicating areas ripe for improvement.
 - **Social media presence** shows a reduced conversion rate, spotlighting an opportunity for strategic enhancement.
 
 ### Insights into Product Categories
