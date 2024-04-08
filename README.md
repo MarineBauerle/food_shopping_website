@@ -1,7 +1,5 @@
-# food_shopping_website
-Explore data analysis on an e-commerce platform for local produce, focusing on user behavior, sales trends, and feedback. Insights aim to enhance user experience and operational efficiency. Includes Python analysis and visualisations.
-
 # Local Produce Platform Data Analysis
+Explore data analysis on an e-commerce platform for local produce, focusing on user behavior, sales trends, and feedback. Insights aim to enhance user experience and operational efficiency. Includes Python analysis and visualisations.
 
 This repository houses a detailed data analysis project aimed at enhancing the user experience and operational efficacy of a hypothetical online platform dedicated to connecting consumers with locally sourced, sustainable food options. The essence of this project is to leverage data analysis to unearth insights that can elevate the platform into a paragon of user-centric, data-driven innovation within the e-commerce domain for local produce.
 
